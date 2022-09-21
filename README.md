@@ -1,4 +1,4 @@
-# [Interfacing Hall Effect Sensor With Arduino]
+# Interfacing Hall Effect Sensor With Arduino
 
 <br>
 <br>
